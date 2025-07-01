@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://BishalRaj123.github.io/bishalraj/",
+  "homepage": "https://bishalraj123.github.io/bishalraj/",
   "scripts": {
     
     "dev": "vite",
